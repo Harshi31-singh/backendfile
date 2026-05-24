@@ -1,4 +1,4 @@
-# backendfile.
+# backendfile
 # AYARSHI — Service Booking Platform
 
 A full-stack web application with real-time chat (Socket.io), Razorpay & Stripe payments, and JWT authentication.
